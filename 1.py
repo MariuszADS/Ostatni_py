@@ -1,5 +1,5 @@
 import os
-os.getcwd()
+# os.getcwd()
 
 
 # print("""
@@ -48,6 +48,6 @@ os.getcwd()
 # print(pixel)
 
 
-base = 2
-base **= 5
-print(base)
+# base = 2
+# base **= 5
+# print(base)
